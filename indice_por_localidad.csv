@@ -1,0 +1,635 @@
+entidad,mun,loc,nom_ent,nom_mun,nom_loc,tamloc,indice_0_100,quintil
+9,2,1,Ciudad de México,Azcapotzalco,Azcapotzalco,12,76.39,Q5
+9,3,1,Ciudad de México,Coyoacán,Coyoacán,13,79.72,Q5
+9,4,1,Ciudad de México,Cuajimalpa de Morelos,Cuajimalpa de Morelos,11,78.32,Q5
+9,4,10,Ciudad de México,Cuajimalpa de Morelos,Cruz Blanca,3,59.07,Q4
+9,4,20,Ciudad de México,Cuajimalpa de Morelos,San Lorenzo Acopilco,8,69.03,Q5
+9,4,50,Ciudad de México,Cuajimalpa de Morelos,La Venta,2,73.88,Q5
+9,4,54,Ciudad de México,Cuajimalpa de Morelos,Puerto las Cruces (Monte las Cruces),4,56.75,Q4
+9,4,55,Ciudad de México,Cuajimalpa de Morelos,Teopazulco,1,47.59,Q2
+9,4,56,Ciudad de México,Cuajimalpa de Morelos,Valle de las Monjas,1,53.76,Q3
+9,4,57,Ciudad de México,Cuajimalpa de Morelos,Prolongación Constitución,1,61.44,Q5
+9,4,58,Ciudad de México,Cuajimalpa de Morelos,Paraje Río Borracho,1,56.26,Q4
+9,4,59,Ciudad de México,Cuajimalpa de Morelos,El Zarco,1,83.39,Q5
+9,4,60,Ciudad de México,Cuajimalpa de Morelos,La Bolsa (El Encinal),1,,
+9,4,62,Ciudad de México,Cuajimalpa de Morelos,Los Campesinos [Rancho],1,81.61,Q5
+9,4,63,Ciudad de México,Cuajimalpa de Morelos,Santa Rosa,3,57.35,Q4
+9,4,64,Ciudad de México,Cuajimalpa de Morelos,Paraje Cerro de los Padres,1,,
+9,4,66,Ciudad de México,Cuajimalpa de Morelos,Santa Laura [Rancho],1,90.11,Q5
+9,4,67,Ciudad de México,Cuajimalpa de Morelos,La Papa [Escuela Niños Héroes],1,,
+9,4,70,Ciudad de México,Cuajimalpa de Morelos,Punta Galicia,2,63.12,Q5
+9,4,71,Ciudad de México,Cuajimalpa de Morelos,Cola de Pato,1,,
+9,4,73,Ciudad de México,Cuajimalpa de Morelos,Los Aguacates,3,50.83,Q3
+9,4,74,Ciudad de México,Cuajimalpa de Morelos,Punta Ahuatenco,1,61.08,Q5
+9,4,75,Ciudad de México,Cuajimalpa de Morelos,Los Laureles [Rancho],1,,
+9,4,77,Ciudad de México,Cuajimalpa de Morelos,Coatzehuaya,1,42.09,Q1
+9,4,78,Ciudad de México,Cuajimalpa de Morelos,La Loma,1,,
+9,4,79,Ciudad de México,Cuajimalpa de Morelos,Llanito Redondo,1,,
+9,5,1,Ciudad de México,Gustavo A. Madero,Gustavo A. Madero,14,73.75,Q5
+9,6,1,Ciudad de México,Iztacalco,Iztacalco,12,75.88,Q5
+9,7,1,Ciudad de México,Iztapalapa,Iztapalapa,14,73.05,Q5
+9,8,1,Ciudad de México,La Magdalena Contreras,La Magdalena Contreras,11,76.76,Q5
+9,8,71,Ciudad de México,La Magdalena Contreras,Ejido de San Nicolás Totolapan,1,29.22,Q1
+9,8,75,Ciudad de México,La Magdalena Contreras,Segundo Dinamo,1,35.45,Q1
+9,8,79,Ciudad de México,La Magdalena Contreras,Las Golondrinas,1,,
+9,8,83,Ciudad de México,La Magdalena Contreras,El Gavillero,2,25.36,Q1
+9,8,85,Ciudad de México,La Magdalena Contreras,El Ocotal (La Carbonera),1,36.66,Q1
+9,8,88,Ciudad de México,La Magdalena Contreras,Totolapan,2,59.55,Q4
+9,8,89,Ciudad de México,La Magdalena Contreras,Sehuaya,1,,
+9,8,94,Ciudad de México,La Magdalena Contreras,La Campana [Rancho],1,,
+9,8,96,Ciudad de México,La Magdalena Contreras,La Polea,1,,
+9,8,98,Ciudad de México,La Magdalena Contreras,Valle del Tezontle,1,,
+9,8,99,Ciudad de México,La Magdalena Contreras,Albergue Alpino Ajusco,1,,
+9,8,100,Ciudad de México,La Magdalena Contreras,Los Cedros,1,,
+9,8,101,Ciudad de México,La Magdalena Contreras,Ocotenco (La Loma Cazulco),1,41.86,Q1
+9,8,102,Ciudad de México,La Magdalena Contreras,Los Tejocotes,1,,
+9,8,104,Ciudad de México,La Magdalena Contreras,Rancho Viejo,1,39.15,Q1
+9,8,106,Ciudad de México,La Magdalena Contreras,Prolongación Ermitaño,1,54.37,Q4
+9,8,107,Ciudad de México,La Magdalena Contreras,Llanos de Acopilco,1,,
+9,8,108,Ciudad de México,La Magdalena Contreras,Rincón Eslava,1,44.39,Q2
+9,8,109,Ciudad de México,La Magdalena Contreras,La Cañada [Parque],1,,
+9,8,111,Ciudad de México,La Magdalena Contreras,Rancho Chichicaspa,1,67.23,Q5
+9,8,112,Ciudad de México,La Magdalena Contreras,Paraje Chichicaspa,1,46.67,Q2
+9,8,113,Ciudad de México,La Magdalena Contreras,Meyuca,1,,
+9,9,1,Ciudad de México,Milpa Alta,Villa Milpa Alta,8,64.27,Q5
+9,9,11,Ciudad de México,Milpa Alta,San Antonio Tecómitl,8,68.97,Q5
+9,9,15,Ciudad de México,Milpa Alta,San Bartolomé Xicomulco,5,64.32,Q5
+9,9,17,Ciudad de México,Milpa Alta,San Francisco Tecoxpa,7,60.93,Q5
+9,9,24,Ciudad de México,Milpa Alta,San Pablo Oztotepec,8,64.35,Q5
+9,9,29,Ciudad de México,Milpa Alta,San Pedro Atocpan,6,58.1,Q4
+9,9,33,Ciudad de México,Milpa Alta,San Salvador Cuauhtenco,8,65.59,Q5
+9,9,36,Ciudad de México,Milpa Alta,Santa Ana Tlacotenco,7,55.28,Q4
+9,9,37,Ciudad de México,Milpa Alta,Cruztitla,4,61.85,Q5
+9,9,45,Ciudad de México,Milpa Alta,Los Pinos (Totulan),1,52.37,Q3
+9,9,46,Ciudad de México,Milpa Alta,Xoctonco,2,49.55,Q3
+9,9,50,Ciudad de México,Milpa Alta,Cozcatlán,1,47.12,Q2
+9,9,52,Ciudad de México,Milpa Alta,La Herradura (Séptima Curva),1,45.57,Q2
+9,9,54,Ciudad de México,Milpa Alta,Zangahco,1,43.12,Q2
+9,9,56,Ciudad de México,Milpa Alta,Hueycotzingo,1,56.21,Q4
+9,9,66,Ciudad de México,Milpa Alta,Cuauhtec (El Mirador Santa Ana Tlacotenco),1,47.39,Q2
+9,9,67,Ciudad de México,Milpa Alta,La Mora,1,52.57,Q3
+9,9,68,Ciudad de México,Milpa Alta,Metenco,2,48.4,Q2
+9,9,72,Ciudad de México,Milpa Alta,Tamasquititla,1,41.95,Q1
+9,9,74,Ciudad de México,Milpa Alta,San Agustín Xolco,1,53.69,Q3
+9,9,77,Ciudad de México,Milpa Alta,San Marcos (Tezocotitla),1,44.63,Q2
+9,9,81,Ciudad de México,Milpa Alta,Cuyucalco,1,54.05,Q4
+9,9,82,Ciudad de México,Milpa Alta,Iztahuaca,1,57.48,Q4
+9,9,83,Ciudad de México,Milpa Alta,Tzotzomaco,1,48.25,Q2
+9,9,84,Ciudad de México,Milpa Alta,Tlatepexco,1,48.53,Q2
+9,9,88,Ciudad de México,Milpa Alta,San Paocotitla,1,53.4,Q3
+9,9,90,Ciudad de México,Milpa Alta,Tlacopac,1,44.34,Q2
+9,9,92,Ciudad de México,Milpa Alta,Tecolotzitzatzian (Tiapa),1,27.36,Q1
+9,9,95,Ciudad de México,Milpa Alta,Tepetlapa,1,39.15,Q1
+9,9,96,Ciudad de México,Milpa Alta,Tequianquiztunco,1,34.66,Q1
+9,9,98,Ciudad de México,Milpa Alta,Tetexipezco,1,47.29,Q2
+9,9,99,Ciudad de México,Milpa Alta,Tetlicuili (El Encinal),1,33.78,Q1
+9,9,100,Ciudad de México,Milpa Alta,Toltecas Parte Alta (Barrio Tenantitla),1,,
+9,9,101,Ciudad de México,Milpa Alta,Texcalatlautenco,1,49.34,Q3
+9,9,103,Ciudad de México,Milpa Alta,Tezompa,1,50.69,Q3
+9,9,104,Ciudad de México,Milpa Alta,Teziuhtepec,1,62.33,Q5
+9,9,105,Ciudad de México,Milpa Alta,Tetzumpa,1,59.6,Q4
+9,9,109,Ciudad de México,Milpa Alta,Tlaxala,1,46.61,Q2
+9,9,110,Ciudad de México,Milpa Alta,Ahuapapatlapa,1,,
+9,9,112,Ciudad de México,Milpa Alta,Tetepanco,1,49.82,Q3
+9,9,113,Ciudad de México,Milpa Alta,Copexalco,1,57.83,Q4
+9,9,115,Ciudad de México,Milpa Alta,San José,2,43.69,Q2
+9,9,116,Ciudad de México,Milpa Alta,Hueytepetl (Bugambilias),1,50.14,Q3
+9,9,117,Ciudad de México,Milpa Alta,Ocoximalipa,1,50.97,Q3
+9,9,120,Ciudad de México,Milpa Alta,Corralixpa,1,52.38,Q3
+9,9,124,Ciudad de México,Milpa Alta,El Rancho,1,,
+9,9,126,Ciudad de México,Milpa Alta,Coyocalli,1,37.24,Q1
+9,9,129,Ciudad de México,Milpa Alta,Tlapalan,1,46.1,Q2
+9,9,130,Ciudad de México,Milpa Alta,Retamatitla (Tepehualli),1,,
+9,9,131,Ciudad de México,Milpa Alta,Texalco,1,55.59,Q4
+9,9,134,Ciudad de México,Milpa Alta,Queapilco,1,51.18,Q3
+9,9,135,Ciudad de México,Milpa Alta,Texococlixpa (Rancho Santa Elena),1,,
+9,9,138,Ciudad de México,Milpa Alta,Barranca Seca (Pozo Ocho),2,64.63,Q5
+9,9,139,Ciudad de México,Milpa Alta,Teatlaco,1,51.33,Q3
+9,9,140,Ciudad de México,Milpa Alta,Tlaloxtoc (Ejidos de Tecoxpa),1,35.41,Q1
+9,9,141,Ciudad de México,Milpa Alta,Tezquizco,1,44.95,Q2
+9,9,142,Ciudad de México,Milpa Alta,Atuzanco,1,41.48,Q1
+9,9,147,Ciudad de México,Milpa Alta,El Potrero,1,71.12,Q5
+9,9,151,Ciudad de México,Milpa Alta,Miquixpa,1,44.02,Q2
+9,9,152,Ciudad de México,Milpa Alta,San Lorenzo Tlacoyucan,5,52.39,Q3
+9,9,154,Ciudad de México,Milpa Alta,Rinconada del Teoca,1,57.9,Q4
+9,9,155,Ciudad de México,Milpa Alta,Tepexomulco,1,51.2,Q3
+9,9,156,Ciudad de México,Milpa Alta,Temoclaluca,1,43.59,Q2
+9,9,158,Ciudad de México,Milpa Alta,Malacaxco,2,44.46,Q2
+9,9,159,Ciudad de México,Milpa Alta,Cuatlixco,1,30.69,Q1
+9,9,161,Ciudad de México,Milpa Alta,Coametzu,2,53.96,Q4
+9,9,163,Ciudad de México,Milpa Alta,Cuauhtunco,2,53.76,Q3
+9,9,166,Ciudad de México,Milpa Alta,La Era,1,25.59,Q1
+9,9,167,Ciudad de México,Milpa Alta,Tepetenco,2,36.02,Q1
+9,9,168,Ciudad de México,Milpa Alta,San Isidro Cuatepec,4,54.48,Q4
+9,9,169,Ciudad de México,Milpa Alta,Xaluis,1,49.72,Q3
+9,9,171,Ciudad de México,Milpa Alta,Tepetipac,2,57.76,Q4
+9,9,172,Ciudad de México,Milpa Alta,Tlatlalahuaya,1,39.83,Q1
+9,9,173,Ciudad de México,Milpa Alta,Texunco (Camino Real a Tlaltenami),1,48.8,Q2
+9,9,174,Ciudad de México,Milpa Alta,Mecalco (Camino al Mirador),1,50.63,Q3
+9,9,176,Ciudad de México,Milpa Alta,Zacatonco,2,47.14,Q2
+9,9,178,Ciudad de México,Milpa Alta,Xali,1,53.29,Q3
+9,9,185,Ciudad de México,Milpa Alta,Zacazontlipac,2,63.08,Q5
+9,9,187,Ciudad de México,Milpa Alta,Santa Catarina (Piedra Blanca),1,67.51,Q5
+9,9,188,Ciudad de México,Milpa Alta,Cuauhtetec,2,63.16,Q5
+9,9,189,Ciudad de México,Milpa Alta,Huitlalpa,1,58.21,Q4
+9,9,191,Ciudad de México,Milpa Alta,Texcolipan,1,45.32,Q2
+9,9,192,Ciudad de México,Milpa Alta,Tetzmititla,1,54.36,Q4
+9,9,195,Ciudad de México,Milpa Alta,Tlaxiomulco,1,46.26,Q2
+9,9,198,Ciudad de México,Milpa Alta,Tecoloxtitla,1,56.11,Q4
+9,9,199,Ciudad de México,Milpa Alta,Tapalaco (Amacapultitla),1,27.83,Q1
+9,9,200,Ciudad de México,Milpa Alta,Teacalco,1,48.01,Q2
+9,9,202,Ciudad de México,Milpa Alta,Cuauhzontlipan,1,46.83,Q2
+9,9,203,Ciudad de México,Milpa Alta,Huepaltepec,1,49.91,Q3
+9,9,204,Ciudad de México,Milpa Alta,Mecatlán (Rancho el Refugio),1,55.64,Q4
+9,9,205,Ciudad de México,Milpa Alta,Tecupilco (Kilómetro 17.5),1,73.28,Q5
+9,9,206,Ciudad de México,Milpa Alta,Xaxalpa,1,59.02,Q4
+9,9,207,Ciudad de México,Milpa Alta,Xaltepetitla,1,50.07,Q3
+9,9,208,Ciudad de México,Milpa Alta,Tetecolok,1,36.46,Q1
+9,9,210,Ciudad de México,Milpa Alta,Santa Rosa,1,59.96,Q4
+9,9,211,Ciudad de México,Milpa Alta,Olla de Piedra,1,59.15,Q4
+9,9,213,Ciudad de México,Milpa Alta,El Zapote (Techultepec),1,61.97,Q5
+9,9,214,Ciudad de México,Milpa Alta,Maxulco (Barrio Cruztitla),1,60.59,Q4
+9,9,215,Ciudad de México,Milpa Alta,Tecoxpa (El Pirul),1,37.09,Q1
+9,9,216,Ciudad de México,Milpa Alta,Santa Martha Cosalan,1,51.19,Q3
+9,9,217,Ciudad de México,Milpa Alta,Zacuaztitla,2,46.02,Q2
+9,9,218,Ciudad de México,Milpa Alta,Rancho Paraíso Escondido,1,,
+9,9,219,Ciudad de México,Milpa Alta,Omaxa,1,53.75,Q3
+9,9,222,Ciudad de México,Milpa Alta,Ahuatitla (Ixmatunco),1,39.15,Q1
+9,9,223,Ciudad de México,Milpa Alta,Texacazintla (Xacalixpa),1,48.89,Q3
+9,9,224,Ciudad de México,Milpa Alta,Chichilesca,1,50.25,Q3
+9,9,226,Ciudad de México,Milpa Alta,Calle Capulines,1,40.94,Q1
+9,9,227,Ciudad de México,Milpa Alta,Temalacatl,1,41.19,Q1
+9,9,228,Ciudad de México,Milpa Alta,Temoayan,1,55.05,Q4
+9,9,229,Ciudad de México,Milpa Alta,Prolongación Xolotl,1,27.6,Q1
+9,9,230,Ciudad de México,Milpa Alta,Anayeli,1,,
+9,9,233,Ciudad de México,Milpa Alta,Las Cruces Parte Alta (Tehuepanco),1,49.13,Q3
+9,9,234,Ciudad de México,Milpa Alta,Cuacualipa,1,36.71,Q1
+9,9,235,Ciudad de México,Milpa Alta,Tehuistitla,1,50.33,Q3
+9,9,236,Ciudad de México,Milpa Alta,Cuaxaltepec,1,33.14,Q1
+9,9,237,Ciudad de México,Milpa Alta,Tenopantitla,1,,
+9,9,239,Ciudad de México,Milpa Alta,Tecpallo,1,47.67,Q2
+9,9,241,Ciudad de México,Milpa Alta,Loma Bonita,1,47.97,Q2
+9,9,242,Ciudad de México,Milpa Alta,Cuacuahotlipa,2,55.28,Q4
+9,9,243,Ciudad de México,Milpa Alta,Nacatulatlaxco,1,59.83,Q4
+9,9,244,Ciudad de México,Milpa Alta,Tlacoxpa (Teshutla),1,49.85,Q3
+9,9,245,Ciudad de México,Milpa Alta,Citlalcuac (Rancho el Paraíso Perdido),1,54.69,Q4
+9,9,246,Ciudad de México,Milpa Alta,Atoctenco (Prolongación Niños Héroes),1,61.1,Q5
+9,9,248,Ciudad de México,Milpa Alta,Paraje Huicalco,1,63.11,Q5
+9,9,249,Ciudad de México,Milpa Alta,Los Aguilar,1,76.62,Q5
+9,9,250,Ciudad de México,Milpa Alta,Tetexaloca,1,56.9,Q4
+9,9,251,Ciudad de México,Milpa Alta,Prolongación Justo Sierra,1,46.1,Q2
+9,9,252,Ciudad de México,Milpa Alta,Acatlahuco,1,56.62,Q4
+9,9,253,Ciudad de México,Milpa Alta,Xalmoyo,1,52.22,Q3
+9,9,254,Ciudad de México,Milpa Alta,Oluca,2,49.38,Q3
+9,9,256,Ciudad de México,Milpa Alta,Tlalcoxtepec,1,50.03,Q3
+9,9,257,Ciudad de México,Milpa Alta,Camino Viejo a Santa Cruz,1,46.94,Q2
+9,9,258,Ciudad de México,Milpa Alta,Concla (Camino a Tlaltenamic),1,,
+9,9,264,Ciudad de México,Milpa Alta,Panuca (Cuatexoxoco),1,35.41,Q1
+9,9,265,Ciudad de México,Milpa Alta,Tlaltepec (Tlacoxtepec),1,43.26,Q2
+9,9,266,Ciudad de México,Milpa Alta,Chimeo (Las Palmas),1,47.57,Q2
+9,9,268,Ciudad de México,Milpa Alta,Moxala,1,54.42,Q4
+9,9,269,Ciudad de México,Milpa Alta,El Cerrito,1,54.92,Q4
+9,9,271,Ciudad de México,Milpa Alta,San Miguel (Tecoxomayehualtitla),1,47.27,Q2
+9,9,274,Ciudad de México,Milpa Alta,Tlalmanco (Prolongación Benito Juárez),1,13.36,Q1
+9,9,275,Ciudad de México,Milpa Alta,Tlalcocomoya,1,41.44,Q1
+9,9,276,Ciudad de México,Milpa Alta,Paraje Tatazquiopa,1,40.77,Q1
+9,9,277,Ciudad de México,Milpa Alta,Atoctenco,3,53.5,Q3
+9,9,278,Ciudad de México,Milpa Alta,Tecamac,1,62.01,Q5
+9,9,280,Ciudad de México,Milpa Alta,Teutlalpa,1,62.46,Q5
+9,9,281,Ciudad de México,Milpa Alta,Zihuantemohuayan,1,42.06,Q1
+9,9,282,Ciudad de México,Milpa Alta,Las Abejas,1,64.78,Q5
+9,9,283,Ciudad de México,Milpa Alta,Tlatzala,1,49.79,Q3
+9,9,284,Ciudad de México,Milpa Alta,Tetzompa,1,57.86,Q4
+9,9,285,Ciudad de México,Milpa Alta,Tuzanco (La Joya),2,55.4,Q4
+9,9,286,Ciudad de México,Milpa Alta,San José López Trejo,1,,
+9,9,288,Ciudad de México,Milpa Alta,Tlacopanco,1,44.61,Q2
+9,9,289,Ciudad de México,Milpa Alta,Pixucaltitla,1,45.95,Q2
+9,9,290,Ciudad de México,Milpa Alta,Totomacuentla,1,,
+9,9,291,Ciudad de México,Milpa Alta,Kilómetro 24,1,46.11,Q2
+9,9,292,Ciudad de México,Milpa Alta,Joyas Parte Alta,3,51.66,Q3
+9,9,294,Ciudad de México,Milpa Alta,Acuexcomatl,1,,
+9,9,297,Ciudad de México,Milpa Alta,San Antonio Cuilotepec,2,51.57,Q3
+9,9,300,Ciudad de México,Milpa Alta,San Nicolás Tetelco,5,63.48,Q5
+9,9,301,Ciudad de México,Milpa Alta,El Tejocote,1,52.93,Q3
+9,9,302,Ciudad de México,Milpa Alta,Ejidos Tecoxpa,1,,
+9,9,303,Ciudad de México,Milpa Alta,Arboledas,1,63.65,Q5
+9,9,304,Ciudad de México,Milpa Alta,Emiliano Zapata (Camino al Cerro),1,35.76,Q1
+9,9,305,Ciudad de México,Milpa Alta,Corraltitla,1,50.51,Q3
+9,9,306,Ciudad de México,Milpa Alta,Tepanoco,1,72.18,Q5
+9,9,309,Ciudad de México,Milpa Alta,Zacatipla,1,,
+9,9,310,Ciudad de México,Milpa Alta,Santa Martha Xolco,1,41.38,Q1
+9,9,312,Ciudad de México,Milpa Alta,Tepetitla (Villa Hermosa),1,70.29,Q5
+9,9,313,Ciudad de México,Milpa Alta,Totoxhpa (Cerrada Culiacán),1,36.25,Q1
+9,9,314,Ciudad de México,Milpa Alta,Belizario Domínguez,1,59.27,Q4
+9,9,315,Ciudad de México,Milpa Alta,Nuchtla,3,52.16,Q3
+9,9,316,Ciudad de México,Milpa Alta,Tehuizco,2,49.76,Q3
+9,9,317,Ciudad de México,Milpa Alta,Axayatipac,1,49.0,Q3
+9,9,318,Ciudad de México,Milpa Alta,Ayotepec,1,49.39,Q3
+9,9,319,Ciudad de México,Milpa Alta,Ochpantenco,1,60.52,Q4
+9,9,321,Ciudad de México,Milpa Alta,La Virgen,1,40.19,Q1
+9,9,322,Ciudad de México,Milpa Alta,Matlahuacaloca,2,48.01,Q2
+9,9,323,Ciudad de México,Milpa Alta,Tula (Huixtotlazintla),1,57.42,Q4
+9,9,326,Ciudad de México,Milpa Alta,Tlatlapantunco,1,38.92,Q1
+9,9,328,Ciudad de México,Milpa Alta,San Agustín,1,55.06,Q4
+9,9,332,Ciudad de México,Milpa Alta,Los Angeles,1,50.98,Q3
+9,9,333,Ciudad de México,Milpa Alta,Tezontlipac (San Lorenzo Tlacoyucan),1,70.55,Q5
+9,9,337,Ciudad de México,Milpa Alta,Tlalzonco,1,39.38,Q1
+9,9,338,Ciudad de México,Milpa Alta,Temazcaltitla,1,44.57,Q2
+9,9,340,Ciudad de México,Milpa Alta,Chautonco,1,52.41,Q3
+9,9,341,Ciudad de México,Milpa Alta,Texotitla,1,31.97,Q1
+9,9,342,Ciudad de México,Milpa Alta,Coatepec,1,58.03,Q4
+9,9,344,Ciudad de México,Milpa Alta,Ocotitla (Barrio de Santa Cruz),1,51.8,Q3
+9,9,345,Ciudad de México,Milpa Alta,Teuhtli,1,51.06,Q3
+9,9,347,Ciudad de México,Milpa Alta,Xochiatlaco,1,41.02,Q1
+9,9,348,Ciudad de México,Milpa Alta,Huacaltunco,1,28.83,Q1
+9,9,351,Ciudad de México,Milpa Alta,Tlahuiztpa,1,40.41,Q1
+9,9,352,Ciudad de México,Milpa Alta,Zacacali,1,58.14,Q4
+9,9,354,Ciudad de México,Milpa Alta,Camino Viejo a Tlaltenamic,1,46.88,Q2
+9,9,355,Ciudad de México,Milpa Alta,Joyas del Pedregal,1,31.4,Q1
+9,9,356,Ciudad de México,Milpa Alta,Los Romero,1,27.14,Q1
+9,9,357,Ciudad de México,Milpa Alta,Rancho Viejo,1,,
+9,9,358,Ciudad de México,Milpa Alta,Don Diegoco,1,53.83,Q3
+9,9,359,Ciudad de México,Milpa Alta,Apilintitla,1,70.98,Q5
+9,9,360,Ciudad de México,Milpa Alta,Atlahuitonca,1,45.06,Q2
+9,9,361,Ciudad de México,Milpa Alta,Xilozuchitl,1,51.45,Q3
+9,9,362,Ciudad de México,Milpa Alta,Tenco,1,62.14,Q5
+9,9,363,Ciudad de México,Milpa Alta,Xonacatepec,1,44.79,Q2
+9,9,364,Ciudad de México,Milpa Alta,Xicalhuacan,1,41.73,Q1
+9,9,365,Ciudad de México,Milpa Alta,Ixotitla,1,35.35,Q1
+9,9,366,Ciudad de México,Milpa Alta,Xaltenco,1,38.23,Q1
+9,9,367,Ciudad de México,Milpa Alta,Tlaquexpa,1,57.78,Q4
+9,9,368,Ciudad de México,Milpa Alta,Pipitongo,1,,
+9,9,369,Ciudad de México,Milpa Alta,Encinos,1,44.04,Q2
+9,9,370,Ciudad de México,Milpa Alta,Tehuehuec,1,37.85,Q1
+9,9,371,Ciudad de México,Milpa Alta,Tlalaxco,1,52.95,Q3
+9,9,372,Ciudad de México,Milpa Alta,Apetatita,1,69.51,Q5
+9,9,373,Ciudad de México,Milpa Alta,Texali,1,44.79,Q2
+9,9,374,Ciudad de México,Milpa Alta,Xilutepec,1,44.17,Q2
+9,9,378,Ciudad de México,Milpa Alta,Don Guillermo,1,,
+9,9,379,Ciudad de México,Milpa Alta,Ixtonpaxtitla,1,,
+9,9,380,Ciudad de México,Milpa Alta,Texico,1,46.55,Q2
+9,9,381,Ciudad de México,Milpa Alta,El Santanero,1,,
+9,9,382,Ciudad de México,Milpa Alta,Hueyahuatitla,1,,
+9,9,383,Ciudad de México,Milpa Alta,Zopilocalco (Tatamazquipa),1,,
+9,9,384,Ciudad de México,Milpa Alta,Acopilipan,1,33.8,Q1
+9,9,385,Ciudad de México,Milpa Alta,Hueyitlatile,1,26.32,Q1
+9,9,386,Ciudad de México,Milpa Alta,Coyote,1,,
+9,9,387,Ciudad de México,Milpa Alta,El Triángulo,1,,
+9,9,388,Ciudad de México,Milpa Alta,La Purísima,1,47.67,Q2
+9,9,389,Ciudad de México,Milpa Alta,Atempa,1,59.96,Q4
+9,9,390,Ciudad de México,Milpa Alta,Tlacuitlaya,1,50.65,Q3
+9,9,391,Ciudad de México,Milpa Alta,Cruz Tlaltempa,1,47.97,Q2
+9,9,392,Ciudad de México,Milpa Alta,Ahuatitla (El Tecorral),1,55.74,Q4
+9,9,393,Ciudad de México,Milpa Alta,Xaltepec,1,,
+9,9,394,Ciudad de México,Milpa Alta,Limonuxititla,1,,
+9,9,395,Ciudad de México,Milpa Alta,Cuapetzayuca,1,24.58,Q1
+9,9,396,Ciudad de México,Milpa Alta,Techalli,1,,
+9,9,400,Ciudad de México,Milpa Alta,El Dios Tláloc,1,,
+9,9,401,Ciudad de México,Milpa Alta,La Loma de San José,1,,
+9,9,402,Ciudad de México,Milpa Alta,Tepozán Seco,1,,
+9,9,403,Ciudad de México,Milpa Alta,Memeyuca,1,25.49,Q1
+9,9,407,Ciudad de México,Milpa Alta,Papalocahuitl,1,46.66,Q2
+9,9,408,Ciudad de México,Milpa Alta,Cilxúchitl,1,,
+9,9,410,Ciudad de México,Milpa Alta,Tlaltelpampa,1,56.48,Q4
+9,9,411,Ciudad de México,Milpa Alta,La Cruz,1,,
+9,9,413,Ciudad de México,Milpa Alta,Tepecuescotitla (San Antonio),1,43.52,Q2
+9,9,414,Ciudad de México,Milpa Alta,La Lupita Tlacotenco,1,32.95,Q1
+9,9,415,Ciudad de México,Milpa Alta,Cristo Rey (Emiliano Zapata),1,58.4,Q4
+9,10,1,Ciudad de México,Álvaro Obregón,Álvaro Obregón,13,77.25,Q5
+9,10,7,Ciudad de México,Álvaro Obregón,Rancho Barbechos,1,,
+9,10,213,Ciudad de México,Álvaro Obregón,Ojo de Agua,1,72.36,Q5
+9,10,214,Ciudad de México,Álvaro Obregón,Camino a la Bandera,1,39.05,Q1
+9,10,215,Ciudad de México,Álvaro Obregón,Tiximaloya,1,13.74,Q1
+9,10,216,Ciudad de México,Álvaro Obregón,El Ermitaño (Paraje el Chipil),1,55.1,Q4
+9,10,217,Ciudad de México,Álvaro Obregón,Texcalatlaco,1,31.77,Q1
+9,11,1,Ciudad de México,Tláhuac,Tláhuac,12,71.32,Q5
+9,11,11,Ciudad de México,Tláhuac,San Andrés Mixquic,7,65.41,Q5
+9,11,21,Ciudad de México,Tláhuac,San Juan Ixtayopan,8,68.35,Q5
+9,11,24,Ciudad de México,Tláhuac,San Nicolás Tetelco,5,65.35,Q5
+9,11,26,Ciudad de México,Tláhuac,Santa Catarina Yecahuitzotl,7,66.18,Q5
+9,11,69,Ciudad de México,Tláhuac,San Miguel,1,58.65,Q4
+9,11,71,Ciudad de México,Tláhuac,Tabla los Pozos,2,47.81,Q2
+9,11,72,Ciudad de México,Tláhuac,Mesita del Capulín,1,52.27,Q3
+9,11,76,Ciudad de México,Tláhuac,Ojo de Agua,1,47.02,Q2
+9,11,81,Ciudad de México,Tláhuac,San Miguel (Chinampas),1,69.7,Q5
+9,11,86,Ciudad de México,Tláhuac,Xila,1,53.91,Q4
+9,11,87,Ciudad de México,Tláhuac,Axolocalco (Prolongación Santa Cruz),1,43.09,Q2
+9,11,89,Ciudad de México,Tláhuac,El Tetecon (El Solitario),1,42.68,Q1
+9,11,94,Ciudad de México,Tláhuac,Chinampa San Juan,1,53.6,Q3
+9,11,95,Ciudad de México,Tláhuac,Fin de Galeana,1,,
+9,11,103,Ciudad de México,Tláhuac,Paraje Xometitla,1,62.16,Q5
+9,11,104,Ciudad de México,Tláhuac,San Ignacio de Loyola,3,46.6,Q2
+9,11,108,Ciudad de México,Tláhuac,Paraje Ayecac,1,64.55,Q5
+9,11,110,Ciudad de México,Tláhuac,La Ciénega,5,49.97,Q3
+9,11,111,Ciudad de México,Tláhuac,Chinampas Tetelco,1,56.95,Q4
+9,11,113,Ciudad de México,Tláhuac,Lomas de Xocotlán,1,58.48,Q4
+9,11,116,Ciudad de México,Tláhuac,Santa Catarina [Lienzo Charro],1,,
+9,11,119,Ciudad de México,Tláhuac,Tierra Blanca Parte Alta,1,60.71,Q5
+9,11,122,Ciudad de México,Tláhuac,Las Tablas,1,,
+9,11,126,Ciudad de México,Tláhuac,Camino a Tlaltenco,1,47.56,Q2
+9,11,128,Ciudad de México,Tláhuac,Prolongación Peña Alta,1,56.56,Q4
+9,11,129,Ciudad de México,Tláhuac,Rancho los Pollitos,1,65.37,Q5
+9,11,133,Ciudad de México,Tláhuac,Ejido de San Juan Ixtayopan,1,32.68,Q1
+9,11,134,Ciudad de México,Tláhuac,Tabla Telocuatitla,1,30.77,Q1
+9,11,136,Ciudad de México,Tláhuac,El Pato,2,52.22,Q3
+9,11,137,Ciudad de México,Tláhuac,Ejido de Tláhuac,1,39.19,Q1
+9,11,140,Ciudad de México,Tláhuac,El Paraíso (Mecoxtla),4,56.97,Q4
+9,11,141,Ciudad de México,Tláhuac,Colonia los 500 metros,2,52.35,Q3
+9,11,142,Ciudad de México,Tláhuac,Ampliación San Miguel,2,51.11,Q3
+9,11,143,Ciudad de México,Tláhuac,Ninguno,1,,
+9,11,145,Ciudad de México,Tláhuac,Xalpa (López Portillo),1,50.02,Q3
+9,11,146,Ciudad de México,Tláhuac,Piñón,1,48.08,Q2
+9,11,148,Ciudad de México,Tláhuac,Puertantitla (Camino al Cerro),2,52.95,Q3
+9,11,149,Ciudad de México,Tláhuac,Prolongación el Rosario,1,55.06,Q4
+9,11,150,Ciudad de México,Tláhuac,La Nopalera,1,48.86,Q3
+9,11,152,Ciudad de México,Tláhuac,Bugambilias,1,31.93,Q1
+9,11,153,Ciudad de México,Tláhuac,Tezontitla,1,55.87,Q4
+9,11,154,Ciudad de México,Tláhuac,Xalatlayco,1,47.25,Q2
+9,11,155,Ciudad de México,Tláhuac,El Capulín,1,38.53,Q1
+9,11,156,Ciudad de México,Tláhuac,Las Palmas,1,48.14,Q2
+9,11,157,Ciudad de México,Tláhuac,Tezontenco,1,,
+9,11,158,Ciudad de México,Tláhuac,Las Calabacitas,1,,
+9,11,159,Ciudad de México,Tláhuac,Apoyautla (Cerro de Guadalupe),2,62.86,Q5
+9,11,160,Ciudad de México,Tláhuac,Las Nieves (Almoloya),1,61.82,Q5
+9,11,161,Ciudad de México,Tláhuac,La Cruz,1,52.37,Q3
+9,11,162,Ciudad de México,Tláhuac,Mixtlaplan,1,60.85,Q5
+9,11,163,Ciudad de México,Tláhuac,El Llano,1,55.2,Q4
+9,12,1,Ciudad de México,Tlalpan,Tlalpan,13,77.1,Q5
+9,12,19,Ciudad de México,Tlalpan,Parres (El Guarda),5,55.96,Q4
+9,12,26,Ciudad de México,Tlalpan,San Miguel Ajusco,9,63.22,Q5
+9,12,27,Ciudad de México,Tlalpan,San Miguel Topilejo,9,62.49,Q5
+9,12,105,Ciudad de México,Tlalpan,Apapaxtles,1,50.28,Q3
+9,12,108,Ciudad de México,Tlalpan,Paraje Cercatenco,1,,
+9,12,112,Ciudad de México,Tlalpan,Cañada del Acueducto,1,54.83,Q4
+9,12,114,Ciudad de México,Tlalpan,Cuamino,1,49.12,Q3
+9,12,118,Ciudad de México,Tlalpan,La Cima,1,,
+9,12,123,Ciudad de México,Tlalpan,Xacatixtla (Granja la Garriga),1,,
+9,12,124,Ciudad de México,Tlalpan,Héroes de 1910,3,54.2,Q4
+9,12,128,Ciudad de México,Tlalpan,Las Raíces,1,45.59,Q2
+9,12,129,Ciudad de México,Tlalpan,Kilómetro 38,1,,
+9,12,130,Ciudad de México,Tlalpan,Kilómetro 36.5 (El Crucero),1,56.16,Q4
+9,12,131,Ciudad de México,Tlalpan,Las Maravillas (Kilómetro 37),1,50.87,Q3
+9,12,132,Ciudad de México,Tlalpan,Kilómetro 33.5,1,32.15,Q1
+9,12,135,Ciudad de México,Tlalpan,Lomas de Tepemecatl,5,49.29,Q3
+9,12,140,Ciudad de México,Tlalpan,El Oyamel,1,,
+9,12,144,Ciudad de México,Tlalpan,Piedra Larga,3,52.21,Q3
+9,12,145,Ciudad de México,Tlalpan,Piedras Blancas,1,,
+9,12,152,Ciudad de México,Tlalpan,Rancho Ramírez,1,,
+9,12,155,Ciudad de México,Tlalpan,La Fortaleza,1,,
+9,12,159,Ciudad de México,Tlalpan,La Pedrera,1,53.11,Q3
+9,12,161,Ciudad de México,Tlalpan,El Pedregal,3,57.11,Q4
+9,12,162,Ciudad de México,Tlalpan,El Sifón,1,47.96,Q2
+9,12,168,Ciudad de México,Tlalpan,Chalcuitongo (La Asunción),4,51.06,Q3
+9,12,175,Ciudad de México,Tlalpan,Siete Ocotes,1,44.05,Q2
+9,12,179,Ciudad de México,Tlalpan,El Charco,3,48.99,Q3
+9,12,187,Ciudad de México,Tlalpan,Huinixco,2,49.14,Q3
+9,12,192,Ciudad de México,Tlalpan,Rancho Kyalami,1,,
+9,12,193,Ciudad de México,Tlalpan,Los Sauces,1,,
+9,12,198,Ciudad de México,Tlalpan,La Troje,1,55.69,Q4
+9,12,199,Ciudad de México,Tlalpan,El Cofrecito,1,,
+9,12,201,Ciudad de México,Tlalpan,Rancho los Compadres,1,,
+9,12,207,Ciudad de México,Tlalpan,Camino Viejo a San Andrés,1,,
+9,12,209,Ciudad de México,Tlalpan,Rancho San Nicolás,1,,
+9,12,210,Ciudad de México,Tlalpan,El Arenal,1,52.12,Q3
+9,12,216,Ciudad de México,Tlalpan,Cuanejaque,1,43.92,Q2
+9,12,217,Ciudad de México,Tlalpan,El Oyameyo,1,58.37,Q4
+9,12,218,Ciudad de México,Tlalpan,Parada Oyameyo (Kilómetro 31.5),1,55.68,Q4
+9,12,220,Ciudad de México,Tlalpan,La Campana,1,50.96,Q3
+9,12,221,Ciudad de México,Tlalpan,La Rufina,1,36.07,Q1
+9,12,222,Ciudad de México,Tlalpan,Nopaltitla,3,47.41,Q2
+9,12,229,Ciudad de México,Tlalpan,Tres Cabañas,1,,
+9,12,232,Ciudad de México,Tlalpan,El Alambrado,1,,
+9,12,237,Ciudad de México,Tlalpan,Xomulco (Oyamertonco),1,35.55,Q1
+9,12,246,Ciudad de México,Tlalpan,Rancho Chico,1,,
+9,12,249,Ciudad de México,Tlalpan,Rancho los Cedros del Abuelo,1,,
+9,12,252,Ciudad de México,Tlalpan,La Morucha,1,,
+9,12,254,Ciudad de México,Tlalpan,Barranquilla,1,50.98,Q3
+9,12,256,Ciudad de México,Tlalpan,La Capilla,1,,
+9,12,262,Ciudad de México,Tlalpan,El Sicomoro,1,,
+9,12,263,Ciudad de México,Tlalpan,Tlamenelolpa (Los Encinos),1,,
+9,12,265,Ciudad de México,Tlalpan,La Candelaria,1,,
+9,12,266,Ciudad de México,Tlalpan,La Providencia,1,,
+9,12,267,Ciudad de México,Tlalpan,Finca Trancas (UCAPSA),1,,
+9,12,268,Ciudad de México,Tlalpan,Kilómetro 32.3,1,,
+9,12,269,Ciudad de México,Tlalpan,Temaxcatitla (Kilómetro 32.2),1,48.21,Q2
+9,12,272,Ciudad de México,Tlalpan,Colonia Ocotla,1,45.97,Q2
+9,12,275,Ciudad de México,Tlalpan,Kilómetro 29.5,1,51.34,Q3
+9,12,276,Ciudad de México,Tlalpan,Lomas del Capulín (Kilómetro 30),3,53.49,Q3
+9,12,277,Ciudad de México,Tlalpan,Tlatepancaltitla (Kilómetro 30.5),1,42.96,Q1
+9,12,278,Ciudad de México,Tlalpan,José María Morelos,1,,
+9,12,280,Ciudad de México,Tlalpan,Tlalalpuente,1,48.91,Q3
+9,12,282,Ciudad de México,Tlalpan,Ocotla Chico,3,47.88,Q2
+9,12,283,Ciudad de México,Tlalpan,Paraje Atonco,1,42.87,Q1
+9,12,290,Ciudad de México,Tlalpan,La Herradura,3,60.48,Q4
+9,12,291,Ciudad de México,Tlalpan,Carretera al Ajusco,1,50.92,Q3
+9,12,295,Ciudad de México,Tlalpan,Chahualixcantitla,1,66.71,Q5
+9,12,296,Ciudad de México,Tlalpan,Lomas de San José,1,42.07,Q1
+9,12,300,Ciudad de México,Tlalpan,Colonia San Juan,1,67.2,Q5
+9,12,301,Ciudad de México,Tlalpan,Colonia Aguayoto,2,58.47,Q4
+9,12,302,Ciudad de México,Tlalpan,Los Encinos,1,43.55,Q2
+9,12,303,Ciudad de México,Tlalpan,Kilómetro 32.1,1,,
+9,12,305,Ciudad de México,Tlalpan,Lienzo Charro Pepe Castro,1,,
+9,12,310,Ciudad de México,Tlalpan,Camino a la Venta,1,73.79,Q5
+9,12,311,Ciudad de México,Tlalpan,La Monera,1,51.09,Q3
+9,12,316,Ciudad de México,Tlalpan,Huiquilahua,1,,
+9,12,317,Ciudad de México,Tlalpan,El Tianguillo,1,35.33,Q1
+9,12,319,Ciudad de México,Tlalpan,Popotenco,1,49.22,Q3
+9,12,325,Ciudad de México,Tlalpan,Planta Abasolo,1,63.25,Q5
+9,12,326,Ciudad de México,Tlalpan,Cuauhtenco,1,36.09,Q1
+9,12,327,Ciudad de México,Tlalpan,Tepozán [Parque Ecoturístico],1,,
+9,12,328,Ciudad de México,Tlalpan,Ejidos de San Andrés Totoltepec,2,44.24,Q2
+9,12,330,Ciudad de México,Tlalpan,Área de los Venados (La SIREFA),1,,
+9,12,333,Ciudad de México,Tlalpan,Prolongación Acueducto,1,45.29,Q2
+9,12,335,Ciudad de México,Tlalpan,Rancho el Tordi...yo,1,,
+9,12,337,Ciudad de México,Tlalpan,Rancho Yamel,1,,
+9,12,339,Ciudad de México,Tlalpan,El Oyamel,1,36.59,Q1
+9,12,340,Ciudad de México,Tlalpan,Rancho Tres Hermanos,1,,
+9,12,341,Ciudad de México,Tlalpan,Las Cruces,1,,
+9,12,342,Ciudad de México,Tlalpan,Rancho Matamoros,1,57.34,Q4
+9,12,343,Ciudad de México,Tlalpan,Rancho Valentina,1,,
+9,12,346,Ciudad de México,Tlalpan,Tepehuaxotla (Prolongación Pirámide),1,54.09,Q4
+9,12,347,Ciudad de México,Tlalpan,Las Calaveras (Doña Cristy),1,,
+9,12,350,Ciudad de México,Tlalpan,Los Tlapancos,1,55.63,Q4
+9,12,351,Ciudad de México,Tlalpan,Carretera al Ajusco II,1,56.2,Q4
+9,12,353,Ciudad de México,Tlalpan,Camino Antiguo a Cuernavaca,1,,
+9,12,354,Ciudad de México,Tlalpan,Acazacatongo,1,44.74,Q2
+9,12,355,Ciudad de México,Tlalpan,Acueducto 1ra. Sección,1,58.32,Q4
+9,12,356,Ciudad de México,Tlalpan,El Campo,1,32.84,Q1
+9,12,357,Ciudad de México,Tlalpan,Cuatzontle,1,62.51,Q5
+9,12,358,Ciudad de México,Tlalpan,El Arcoiris,1,63.95,Q5
+9,12,359,Ciudad de México,Tlalpan,Tixtapaltongo (Loma de Ahuayoto),1,28.13,Q1
+9,12,360,Ciudad de México,Tlalpan,Rancho Ahuayoto,1,74.84,Q5
+9,12,361,Ciudad de México,Tlalpan,Oyametonco,1,38.49,Q1
+9,12,362,Ciudad de México,Tlalpan,Cansacaballos,1,,
+9,12,364,Ciudad de México,Tlalpan,Bellavista,1,,
+9,12,365,Ciudad de México,Tlalpan,Ojo de Agua,1,,
+9,12,368,Ciudad de México,Tlalpan,Tepelancoxtla,1,,
+9,12,371,Ciudad de México,Tlalpan,San Agustín,1,,
+9,12,373,Ciudad de México,Tlalpan,Ispancolohuia,1,44.93,Q2
+9,12,374,Ciudad de México,Tlalpan,Paraje Tlalmenelolpa,1,56.4,Q4
+9,12,376,Ciudad de México,Tlalpan,Teteocotla,1,51.0,Q3
+9,12,377,Ciudad de México,Tlalpan,Paraje el Tezontle Acopiaxco,1,,
+9,12,378,Ciudad de México,Tlalpan,Rancho Viejo,1,47.41,Q2
+9,12,379,Ciudad de México,Tlalpan,Paraje el Negro,1,,
+9,12,381,Ciudad de México,Tlalpan,Ololica (Loloigque),1,48.7,Q2
+9,12,383,Ciudad de México,Tlalpan,Tepacheras (Kilómetro 31),1,54.97,Q4
+9,12,389,Ciudad de México,Tlalpan,La Loma,1,,
+9,12,390,Ciudad de México,Tlalpan,La Reja,1,29.9,Q1
+9,12,391,Ciudad de México,Tlalpan,Popocotla,1,45.28,Q2
+9,12,392,Ciudad de México,Tlalpan,Colonia Cuauhtenco (Kilómetro 27),1,53.85,Q4
+9,12,393,Ciudad de México,Tlalpan,Kilómetro 28 Sur,2,55.54,Q4
+9,12,394,Ciudad de México,Tlalpan,Paraje Buenavista,1,45.95,Q2
+9,12,395,Ciudad de México,Tlalpan,Los Encinos [Rancho],1,,
+9,12,396,Ciudad de México,Tlalpan,Tezontitla,3,64.11,Q5
+9,12,398,Ciudad de México,Tlalpan,Rancho Teo,1,,
+9,12,399,Ciudad de México,Tlalpan,Piedra Suelta,1,45.47,Q2
+9,12,401,Ciudad de México,Tlalpan,El Retiro,1,,
+9,12,403,Ciudad de México,Tlalpan,Las Castañas,1,,
+9,12,404,Ciudad de México,Tlalpan,San Carlos,1,,
+9,12,405,Ciudad de México,Tlalpan,Rancho Chato,1,,
+9,12,406,Ciudad de México,Tlalpan,El Capricho,1,,
+9,12,407,Ciudad de México,Tlalpan,El Sillar,1,,
+9,12,409,Ciudad de México,Tlalpan,Rancho Nevado,1,,
+9,12,410,Ciudad de México,Tlalpan,La Soledad,1,50.86,Q3
+9,12,413,Ciudad de México,Tlalpan,El Arco Amarillo,1,,
+9,12,414,Ciudad de México,Tlalpan,El Guardita,1,,
+9,12,415,Ciudad de México,Tlalpan,El Capricho,1,,
+9,12,416,Ciudad de México,Tlalpan,Tlayelpa,1,64.12,Q5
+9,12,417,Ciudad de México,Tlalpan,Autriquie,1,,
+9,12,418,Ciudad de México,Tlalpan,Cebadillas,1,46.72,Q2
+9,12,419,Ciudad de México,Tlalpan,Rancho Mac,1,,
+9,12,420,Ciudad de México,Tlalpan,El Salitrillo,1,35.84,Q1
+9,12,421,Ciudad de México,Tlalpan,El Encanto,1,,
+9,12,422,Ciudad de México,Tlalpan,Xoxoctongo,1,57.0,Q4
+9,12,423,Ciudad de México,Tlalpan,La Huerta,1,33.13,Q1
+9,12,424,Ciudad de México,Tlalpan,El Líder,1,,
+9,12,426,Ciudad de México,Tlalpan,Pedregal del Xitle,1,38.4,Q1
+9,12,427,Ciudad de México,Tlalpan,Santa Ana,1,45.72,Q2
+9,12,428,Ciudad de México,Tlalpan,Tlapexco,1,,
+9,12,429,Ciudad de México,Tlalpan,El Resumidero,1,68.19,Q5
+9,12,430,Ciudad de México,Tlalpan,Zamora,1,74.81,Q5
+9,12,431,Ciudad de México,Tlalpan,Acanceh,1,,
+9,12,432,Ciudad de México,Tlalpan,Majadatonco,1,,
+9,12,433,Ciudad de México,Tlalpan,Rancho Tequila,1,,
+9,12,434,Ciudad de México,Tlalpan,La Loma,1,,
+9,12,435,Ciudad de México,Tlalpan,La Manga Lagunitas,1,,
+9,12,436,Ciudad de México,Tlalpan,Xililimoco,1,43.9,Q2
+9,12,437,Ciudad de México,Tlalpan,Tierra Blanca,1,,
+9,12,438,Ciudad de México,Tlalpan,Ejido de San Miguel Xicalco,1,36.19,Q1
+9,12,439,Ciudad de México,Tlalpan,La Joyita,1,44.34,Q2
+9,12,440,Ciudad de México,Tlalpan,Ayopa,1,45.02,Q2
+9,13,1,Ciudad de México,Xochimilco,Xochimilco,12,70.68,Q5
+9,13,91,Ciudad de México,Xochimilco,Tepemimilco,1,68.2,Q5
+9,13,96,Ciudad de México,Xochimilco,Ixotitla,1,47.29,Q2
+9,13,111,Ciudad de México,Xochimilco,Paraje Lila (El Ladrillo),1,46.48,Q2
+9,13,112,Ciudad de México,Xochimilco,Paraje Texhuilo,1,,
+9,13,113,Ciudad de México,Xochimilco,Zacapa,1,96.48,Q5
+9,13,118,Ciudad de México,Xochimilco,Barrio San Antonio (Cruz Monte),2,58.98,Q4
+9,13,134,Ciudad de México,Xochimilco,Ampliación Chalmita,3,45.24,Q2
+9,13,135,Ciudad de México,Xochimilco,El Mirador (Tetexaloca),1,,
+9,13,136,Ciudad de México,Xochimilco,Tepexomulco,3,62.74,Q5
+9,13,137,Ciudad de México,Xochimilco,Tlachiultepec de Ahuayucan (Las Malvinas),2,62.4,Q5
+9,13,138,Ciudad de México,Xochimilco,Tepetitla (Tlacoxpan),1,52.58,Q3
+9,13,139,Ciudad de México,Xochimilco,Tlacualleli (El Calvario),1,49.44,Q3
+9,13,140,Ciudad de México,Xochimilco,Tlaltepetla (Tehuistitla),1,53.49,Q3
+9,13,143,Ciudad de México,Xochimilco,Tlalatlaco,1,49.89,Q3
+9,13,146,Ciudad de México,Xochimilco,Tlatzala (Cuayuca),1,60.25,Q4
+9,13,147,Ciudad de México,Xochimilco,Isla de las Muñecas,1,,
+9,13,151,Ciudad de México,Xochimilco,Tepuente,1,58.39,Q4
+9,13,157,Ciudad de México,Xochimilco,Tipipili,3,45.78,Q2
+9,13,160,Ciudad de México,Xochimilco,Tochuca (San Salvador),2,66.71,Q5
+9,13,162,Ciudad de México,Xochimilco,Pepelaxtla,2,62.62,Q5
+9,13,163,Ciudad de México,Xochimilco,Tecacalango,1,65.04,Q5
+9,13,164,Ciudad de México,Xochimilco,Tzompole,1,54.24,Q4
+9,13,165,Ciudad de México,Xochimilco,Cacalco (Tepextenco),1,49.6,Q3
+9,13,168,Ciudad de México,Xochimilco,Texalco (Joyas de Texalco),1,,
+9,13,169,Ciudad de México,Xochimilco,Apatlaco,1,42.07,Q1
+9,13,172,Ciudad de México,Xochimilco,Paraje de la Ciénega,1,48.91,Q3
+9,13,177,Ciudad de México,Xochimilco,Kilómetro 26,1,,
+9,13,178,Ciudad de México,Xochimilco,Tlapizatil (Puente de Urrutia),1,47.6,Q2
+9,13,180,Ciudad de México,Xochimilco,Tepexomulco las Rocas,1,57.85,Q4
+9,13,181,Ciudad de México,Xochimilco,Ocotitla Tepachuxiac,2,52.59,Q3
+9,13,182,Ciudad de México,Xochimilco,Tecuyo,1,,
+9,13,183,Ciudad de México,Xochimilco,Hualpalcaltepec,1,,
+9,13,184,Ciudad de México,Xochimilco,Atotle,2,66.17,Q5
+9,13,185,Ciudad de México,Xochimilco,Los Tejocotes,1,77.35,Q5
+9,13,187,Ciudad de México,Xochimilco,Tepepatlaxtle,1,61.7,Q5
+9,13,190,Ciudad de México,Xochimilco,Tixculco,1,41.27,Q1
+9,13,191,Ciudad de México,Xochimilco,Tecoexcontitla,2,58.69,Q4
+9,13,193,Ciudad de México,Xochimilco,El Potrero (Bosques de la Paz),1,55.98,Q4
+9,13,195,Ciudad de México,Xochimilco,Paraje Tepanyecac,1,42.51,Q1
+9,13,196,Ciudad de México,Xochimilco,Tepepula,1,57.79,Q4
+9,13,197,Ciudad de México,Xochimilco,La Angostura,1,37.4,Q1
+9,13,198,Ciudad de México,Xochimilco,Sihuatlixpa,1,63.59,Q5
+9,13,201,Ciudad de México,Xochimilco,Cuatixi,1,41.91,Q1
+9,13,202,Ciudad de México,Xochimilco,Paraje Zacapa,3,49.72,Q3
+9,13,203,Ciudad de México,Xochimilco,Santa Catarina (Piedra Blanca),1,64.1,Q5
+9,13,204,Ciudad de México,Xochimilco,Huepaltepec,1,59.55,Q4
+9,13,205,Ciudad de México,Xochimilco,Tecuanatla (Arenal Papanco),1,67.58,Q5
+9,13,206,Ciudad de México,Xochimilco,Tepepecalachico (Inopilco),1,45.69,Q2
+9,13,207,Ciudad de México,Xochimilco,Rancho la Flor,1,,
+9,13,208,Ciudad de México,Xochimilco,Los Cedros,1,,
+9,13,209,Ciudad de México,Xochimilco,Tepeclite,1,55.54,Q4
+9,13,210,Ciudad de México,Xochimilco,Acalipa,1,61.61,Q5
+9,13,213,Ciudad de México,Xochimilco,Ampliación Bugambilias (Nauhtecpan),1,50.34,Q3
+9,13,214,Ciudad de México,Xochimilco,Tepeyecac (El Arenal),1,59.42,Q4
+9,13,215,Ciudad de México,Xochimilco,Tepexomulco (Kilómetro 27.8),1,41.32,Q1
+9,13,218,Ciudad de México,Xochimilco,Ixcuicuilco,1,54.93,Q4
+9,13,224,Ciudad de México,Xochimilco,Corralón Policía Federal de Caminos,1,37.8,Q1
+9,13,226,Ciudad de México,Xochimilco,Cocopalcuautla,1,65.06,Q5
+9,13,231,Ciudad de México,Xochimilco,Tecanco,2,44.31,Q2
+9,13,232,Ciudad de México,Xochimilco,Atlaxco,1,55.77,Q4
+9,13,234,Ciudad de México,Xochimilco,Barrio Nochicala,1,43.65,Q2
+9,13,236,Ciudad de México,Xochimilco,Camino Real a San Pedro,1,46.72,Q2
+9,13,237,Ciudad de México,Xochimilco,El Cedral,1,67.93,Q5
+9,13,238,Ciudad de México,Xochimilco,La Espejera,1,41.99,Q1
+9,13,239,Ciudad de México,Xochimilco,Ahuatitla (Texcopaxuli),1,49.67,Q3
+9,13,242,Ciudad de México,Xochimilco,Atenco (Tlaquilpa),1,47.39,Q2
+9,13,243,Ciudad de México,Xochimilco,Naxayopa,1,53.39,Q3
+9,13,244,Ciudad de México,Xochimilco,Coapantitla,1,66.62,Q5
+9,13,245,Ciudad de México,Xochimilco,San Martín,1,,
+9,13,246,Ciudad de México,Xochimilco,Francisco Villa (Tepejoyuca),1,34.73,Q1
+9,13,247,Ciudad de México,Xochimilco,Tecaxi,1,,
+9,13,249,Ciudad de México,Xochimilco,Chililico,1,43.98,Q2
+9,13,251,Ciudad de México,Xochimilco,Camino al Panteón (Las Cruces),1,37.93,Q1
+9,13,252,Ciudad de México,Xochimilco,Texopantitla (Chocolines),1,49.28,Q3
+9,13,253,Ciudad de México,Xochimilco,Ilimunxutitla,1,54.83,Q4
+9,13,256,Ciudad de México,Xochimilco,La Cienega,1,,
+9,13,257,Ciudad de México,Xochimilco,Los Pinos (Tecacahuaco),2,47.73,Q2
+9,13,258,Ciudad de México,Xochimilco,Temamatla,1,58.37,Q4
+9,13,261,Ciudad de México,Xochimilco,Milahuaytitla,1,43.27,Q2
+9,13,262,Ciudad de México,Xochimilco,Nochicala (Pajaritos),1,41.35,Q1
+9,13,263,Ciudad de México,Xochimilco,San Juan Diego (Matlacuaitla),1,41.08,Q1
+9,13,264,Ciudad de México,Xochimilco,Paraje Tlahuiteco,1,56.58,Q4
+9,13,265,Ciudad de México,Xochimilco,Moyocalco,1,60.54,Q4
+9,13,266,Ciudad de México,Xochimilco,Cuahuticultitla,1,53.51,Q3
+9,13,267,Ciudad de México,Xochimilco,Tizilingo,1,59.28,Q4
+9,13,269,Ciudad de México,Xochimilco,Bosques de la Paz,1,47.56,Q2
+9,13,270,Ciudad de México,Xochimilco,Contlalco,1,57.64,Q4
+9,13,271,Ciudad de México,Xochimilco,Tlalmelaca,1,49.22,Q3
+9,13,273,Ciudad de México,Xochimilco,Zacazontlipac,3,60.9,Q5
+9,13,274,Ciudad de México,Xochimilco,Tepetlatzinco,1,22.05,Q1
+9,13,275,Ciudad de México,Xochimilco,El Corazón,1,56.7,Q4
+9,13,276,Ciudad de México,Xochimilco,Ocoxochoca,1,47.23,Q2
+9,13,277,Ciudad de México,Xochimilco,Texcalatlaco,1,41.71,Q1
+9,13,278,Ciudad de México,Xochimilco,Azizicantitla,1,50.57,Q3
+9,13,280,Ciudad de México,Xochimilco,Duraznotitla (Tlaquilpa),1,,
+9,13,281,Ciudad de México,Xochimilco,Ahuapixititla,1,62.63,Q5
+9,13,282,Ciudad de México,Xochimilco,El Corral,1,41.77,Q1
+9,13,283,Ciudad de México,Xochimilco,Axomulco,1,30.02,Q1
+9,13,284,Ciudad de México,Xochimilco,Oquetzalpa,1,58.17,Q4
+9,13,285,Ciudad de México,Xochimilco,Texcalpa,1,48.16,Q2
+9,13,286,Ciudad de México,Xochimilco,Acapa,1,74.73,Q5
+9,13,287,Ciudad de México,Xochimilco,Ototzingo (Acuario),1,49.41,Q3
+9,13,288,Ciudad de México,Xochimilco,Tlalmenalqui,1,,
+9,13,289,Ciudad de México,Xochimilco,Zacatongo,1,36.86,Q1
+9,13,290,Ciudad de México,Xochimilco,Ampliacion Tlapanoya Baja,1,50.88,Q3
+9,13,291,Ciudad de México,Xochimilco,Ampliación San Bartolo,1,55.74,Q4
+9,13,292,Ciudad de México,Xochimilco,Ampliación San Martín Caballero,1,46.57,Q2
+9,13,293,Ciudad de México,Xochimilco,Techachalictic,1,45.41,Q2
+9,13,294,Ciudad de México,Xochimilco,Las Cubetas,1,34.4,Q1
+9,13,295,Ciudad de México,Xochimilco,San Sebastián,1,40.21,Q1
+9,14,1,Ciudad de México,Benito Juárez,Benito Juárez,12,82.51,Q5
+9,15,1,Ciudad de México,Cuauhtémoc,Cuauhtémoc,13,74.97,Q5
+9,16,1,Ciudad de México,Miguel Hidalgo,Miguel Hidalgo,12,78.1,Q5
+9,17,1,Ciudad de México,Venustiano Carranza,Venustiano Carranza,12,74.09,Q5
